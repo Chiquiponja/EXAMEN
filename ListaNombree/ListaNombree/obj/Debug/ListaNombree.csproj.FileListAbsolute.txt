@@ -1,0 +1,14 @@
+C:\Users\prisc\source\repos\ListaNombree\ListaNombree\bin\Debug\ListaNombree.exe.config
+C:\Users\prisc\source\repos\ListaNombree\ListaNombree\bin\Debug\ListaNombree.exe
+C:\Users\prisc\source\repos\ListaNombree\ListaNombree\bin\Debug\ListaNombree.pdb
+C:\Users\prisc\source\repos\ListaNombree\ListaNombree\obj\Debug\ListaNombree.csprojAssemblyReference.cache
+C:\Users\prisc\source\repos\ListaNombree\ListaNombree\obj\Debug\ListaNombree.csproj.CoreCompileInputs.cache
+C:\Users\prisc\source\repos\ListaNombree\ListaNombree\obj\Debug\ListaNombree.exe
+C:\Users\prisc\source\repos\ListaNombree\ListaNombree\obj\Debug\ListaNombree.pdb
+C:\Users\gabri\Downloads\LISTANOMBRE-master\LISTANOMBRE-master\ListaNombree\ListaNombree\bin\Debug\ListaNombree.exe.config
+C:\Users\gabri\Downloads\LISTANOMBRE-master\LISTANOMBRE-master\ListaNombree\ListaNombree\bin\Debug\ListaNombree.exe
+C:\Users\gabri\Downloads\LISTANOMBRE-master\LISTANOMBRE-master\ListaNombree\ListaNombree\bin\Debug\ListaNombree.pdb
+C:\Users\gabri\Downloads\LISTANOMBRE-master\LISTANOMBRE-master\ListaNombree\ListaNombree\obj\Debug\ListaNombree.csprojAssemblyReference.cache
+C:\Users\gabri\Downloads\LISTANOMBRE-master\LISTANOMBRE-master\ListaNombree\ListaNombree\obj\Debug\ListaNombree.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Downloads\LISTANOMBRE-master\LISTANOMBRE-master\ListaNombree\ListaNombree\obj\Debug\ListaNombree.exe
+C:\Users\gabri\Downloads\LISTANOMBRE-master\LISTANOMBRE-master\ListaNombree\ListaNombree\obj\Debug\ListaNombree.pdb
